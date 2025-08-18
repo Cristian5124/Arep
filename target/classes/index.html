@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Servidor Java</title>
+    <link rel="icon" type="image/jpeg" href="/Logo.jpg">
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+    <div class="logo">
+        <img src="/Logo.jpg" alt="Logo">
+    </div>
+
+    <h1>Prueba Servidor</h1>
+
+    <h2>GET</h2>
+    <input id="name" placeholder="Escribe tu nombre">
+    <button onclick="loadGetMsg()">Enviar GET</button>
+    <div id="getresp"></div>
+
+    <h2>POST</h2>
+    <input id="postname" placeholder="Escribe tu nombre">
+    <button onclick="loadPostMsg()">Enviar POST</button>
+    <div id="postresp"></div>
+
+    <h2>API Time</h2>
+    <button onclick="loadTime()">Obtener Hora</button>
+    <div id="timeresp"></div>
+
+    <script src="/app.js"></script>
+</body>
+
+</html>

@@ -76,3 +76,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Simple implementation of a web server in Java.
+
+## Postman Tests
+
+Get Method
+
+<img width="1482" height="445" alt="image" src="https://github.com/user-attachments/assets/49fa7601-20b3-446a-a2e5-b675d4ab0409" />
+
+Post Method
+
+<img width="1490" height="445" alt="image" src="https://github.com/user-attachments/assets/855b77d1-49dc-410e-8cb6-3df682667d9d" />
+
+Get Api Method
+
+<img width="1491" height="449" alt="image" src="https://github.com/user-attachments/assets/c7be0cf1-16fb-4674-838d-aeb981d67864" />
+
+## Tests
+
+<img width="1466" height="394" alt="image" src="https://github.com/user-attachments/assets/6c635f84-2af3-4fc8-9d7a-c37d17654490" />
+
+
